@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <inherits name="com.google.gwt.user.User"/>
+    <inherits name="com.google.gwt.logging.Logging"/>
+    <source path=""/>
+
+    <entry-point class="org.dominokit.test.App"/>
+    <collapse-all-properties/>
+</module>
